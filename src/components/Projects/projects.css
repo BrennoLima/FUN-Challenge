@@ -1,0 +1,29 @@
+.projects{
+    min-height: 35rem;
+}
+
+.row-content-projects{
+    min-height: 7rem;
+    align-items: center;
+}
+.row-projects-icons{
+    min-height: 15rem;
+    background-color: blue;
+}
+.second-row-icons{
+    margin-top: 3rem;
+}
+@media screen and (max-width: 900px){
+    .second-row-icons{
+        margin-top: 0rem;
+    }
+}
+
+.project-text{
+    font-size: 0.9rem;
+    color: #eaecf0;
+    text-align: center;
+}
+.container-project-text{
+    
+}

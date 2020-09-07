@@ -1,0 +1,34 @@
+.about{
+    background-color: #f3f6f9;
+    min-height: 25rem;
+}
+@media screen and (max-width: 900px){
+   #dummy-img-about{
+        height: 20rem;
+    } 
+}
+
+.about-text{
+    text-align: left;
+}
+mark.blue{
+    color: #2d25c8;
+    background: none
+}
+#about-text-body-1{
+    color: grey;
+    font-size: 0.8rem;
+}
+
+#about-text-body-2{
+    font-size: 0.9rem;
+}
+
+#about-text-body-3{
+    color: grey;
+    font-size: 0.8rem;
+}
+
+#about-text-body-4{
+    font-size: 1rem;
+}

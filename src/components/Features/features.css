@@ -1,0 +1,26 @@
+.features{
+    min-height: 30rem;
+}
+.row-content{
+    min-height: 13rem;
+}
+
+.features-text{
+    text-align: left;
+    font-size: 0.9rem;
+    color: grey;
+}
+.col-content{
+    text-align: left;
+}
+
+@media screen and (max-width: 900px){
+    .col-content{
+        text-align: center;
+    }
+    .features-text{
+        text-align: center;
+        font-size: 0.9rem;
+        color: grey;
+    }
+}

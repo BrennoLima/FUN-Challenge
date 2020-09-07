@@ -1,0 +1,30 @@
+.header{
+    background-color: white;
+    min-height: 30rem;
+    overflow: auto;
+}
+#btn-simon{
+    width: 7rem;
+}
+.navbar{
+    align-content: center;
+}
+#sign-in-link{
+    color: blue;
+}
+#jumbotron{
+    min-height: 25rem;
+    background-color: white;
+}
+.header-text{
+    text-align: left;
+}
+#header-text-body{
+    color: grey;
+    font-size: 0.9rem;
+}
+#btn-hire{
+    border-radius: 2rem;
+    width: 12rem;
+    height: 3rem;
+}
