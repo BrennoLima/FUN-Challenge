@@ -37,9 +37,8 @@ const Footer = (props) =>{
             <div className="row">
                 <div className="col-12 col-md-8 offset-md-2 footer-overlay">
                     <div className="row mt-5">
-                        <div className="col-12 col-md-6 ml-5">
-                            <h3 className="footer-text">Forget Andrew Experience, Wanna</h3>
-                            <h3 className="footer-text">Jenny's experience?</h3>
+                        <div className="col-12 col-md-6 ml-3 mb-2">
+                            <h3 className="footer-text">Forget Andrew Experience, Wanna Jenny's experience?</h3>
                         </div>
                         <div className="col-12 col-md-3 offset-md-2 mt-1">
                             <Button id="footer-button" className="mb-2" onClick={toggle}><strong>Hit Us Now</strong></Button>
